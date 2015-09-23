@@ -24,7 +24,6 @@
     "underscore": "latest"
   },
   "package-dependencies": {
-    "build": "latest",
-    "ti-create": "latest"
+    "build": "latest"
   }
 }
