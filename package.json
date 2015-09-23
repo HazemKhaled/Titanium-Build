@@ -1,15 +1,11 @@
 {
   "name": "titanium-atom-menu",
-  "main": "./lib/titanium-atom-menu.js",
+  "main": "./lib/titanium-atom-menu",
   "version": "0.1.0",
   "description": "Run, package and create project with Appcelerator Titanium",
   "keywords": [
     "titanium"
   ],
-  "activationCommands": {
-    "atom-workspace": "titanium-atom-menu:run-android",
-    "atom-workspace": "titanium-atom-menu:run-iphone"
-  },
   "providedServices": {
     "builder": {
       "description": "Build Titanium project",
@@ -23,6 +19,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
