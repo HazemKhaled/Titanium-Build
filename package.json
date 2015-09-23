@@ -20,7 +20,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-package-dependencies": "latest"
+    "atom-package-dependencies": "latest",
+    "underscore": "latest"
   },
   "package-dependencies": {
     "build": "latest",
