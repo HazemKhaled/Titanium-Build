@@ -1,0 +1,19 @@
+{
+  "name": "titanium-atom-menu",
+  "main": "./lib/titanium-atom-menu.js",
+  "version": "0.1.0",
+  "description": "Run, package and create project with Appcelerator Titanium",
+  "keywords": [
+    "titanium"
+  ],
+  "activationCommands": {
+    "atom-workspace": "titanium-cli:toggle"
+  },
+  "repository": "https://github.com/hazemkhaled/titanium-atom-menu",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
