@@ -1,37 +1,25 @@
 'menu': [
   {
-    'label': 'Titanium'
+    'label': 'Packages'
     'submenu': [
-        {
-          'label': 'New'
-          'submenu': [
-            {
-              'label': 'Project'
-              'command': 'ti-create:project'
-            }
-            {
-              'label': 'Controller'
-              'command': 'ti-create:controller'
-            }
-            {
-              'label': 'Widget'
-              'command': 'ti-create:widget'
-            }
-          ]
-        }
-        {
-          'label': 'Run'
-          'submenu': [
-            {
-              'label': 'Android Emulator'
-              'command': 'titanium-atom-menu:run-android'
-            }
-            {
-              'label': 'iPhone Simulator'
-              'command': 'titanium-atom-menu:run-iphone'
-            }
-          ]
-        }
-      ]
-    }
+      {
+        'label': 'Titanium'
+        'submenu': [
+          {
+            'label': 'Run'
+            'submenu': [
+              {
+                'label': 'Android Emulator'
+                'command': 'titanium-atom-menu:run-android'
+              }
+              {
+                'label': 'iPhone Simulator'
+                'command': 'titanium-atom-menu:run-iphone'
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]
