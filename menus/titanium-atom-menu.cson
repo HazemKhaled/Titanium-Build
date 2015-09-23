@@ -19,6 +19,19 @@
             }
           ]
         }
+        {
+          'label': 'Run'
+          'submenu': [
+            {
+              'label': 'Android Emulator'
+              'command': 'titanium-atom-menu:run-android'
+            }
+            {
+              'label': 'iPhone Simulator'
+              'command': 'titanium-atom-menu:run-iphone'
+            }
+          ]
+        }
       ]
     }
 ]
