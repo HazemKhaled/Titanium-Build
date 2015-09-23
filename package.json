@@ -10,6 +10,14 @@
     "atom-workspace": "titanium-atom-menu:run-android",
     "atom-workspace": "titanium-atom-menu:run-iphone"
   },
+  "providedServices": {
+    "builder": {
+      "description": "Build Titanium project",
+      "versions": {
+        "1.0.0": "provideBuilder"
+      }
+    }
+  },
   "repository": "https://github.com/hazemkhaled/titanium-atom-menu",
   "license": "MIT",
   "engines": {
