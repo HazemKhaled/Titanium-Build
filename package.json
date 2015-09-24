@@ -27,7 +27,8 @@
   },
   "dependencies": {
     "atom-package-dependencies": "latest",
-    "underscore": "latest"
+    "underscore": "latest",
+    "ioslib": "latest"
   },
   "package-dependencies": {
     "build": "latest"
