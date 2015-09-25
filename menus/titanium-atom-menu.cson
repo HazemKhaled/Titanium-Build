@@ -3,18 +3,22 @@
     'label': 'Packages'
     'submenu': [
       {
-        'label': 'Titanium'
+        'label': 'Titanium Build'
         'submenu': [
           {
-            'label': 'Run'
+            'label': 'iPhone Simulator'
+            'command': 'titanium-atom-menu:run-iphone'
+          }
+          {
+            'label': 'Android'
             'submenu': [
               {
-                'label': 'Android Emulator'
-                'command': 'titanium-atom-menu:run-android'
+                'label': 'Emulator'
+                'command': 'titanium-atom-menu:run-android-emulators'
               }
               {
-                'label': 'iPhone Simulator'
-                'command': 'titanium-atom-menu:run-iphone'
+                'label': 'Device'
+                'command': 'titanium-atom-menu:run-android-devices'
               }
             ]
           }
