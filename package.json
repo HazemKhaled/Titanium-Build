@@ -10,7 +10,8 @@
     "iPhone",
     "Android",
     "iOS",
-    "Appcelerator"
+    "Appcelerator",
+    "build"
   ],
   "providedServices": {
     "builder": {
