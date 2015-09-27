@@ -22,6 +22,18 @@
               }
             ]
           }
+          {
+            'label': 'Clean'
+            'command': 'titanium-atom-menu:clean'
+          }
+          {
+            'label': 'Terminate build.'
+            'command': 'build:stop'
+          }
+          {
+            'label': 'Rebuild'
+            'command': 'build:trigger'
+          }
         ]
       }
     ]
