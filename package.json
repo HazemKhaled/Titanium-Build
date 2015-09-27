@@ -1,5 +1,5 @@
 {
-  "name": "titanium-atom-menu",
+  "name": "titanium-build",
   "main": "./lib/titanium-atom-menu",
   "version": "0.7.0",
   "description": "Run, package and create project with Appcelerator Titanium",
