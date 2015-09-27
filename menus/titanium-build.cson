@@ -7,24 +7,24 @@
         'submenu': [
           {
             'label': 'iPhone Simulator'
-            'command': 'titanium-atom-menu:run-iphone'
+            'command': 'titanium-build:run-iphone'
           }
           {
             'label': 'Android'
             'submenu': [
               {
                 'label': 'Emulator'
-                'command': 'titanium-atom-menu:run-android-emulators'
+                'command': 'titanium-build:run-android-emulators'
               }
               {
                 'label': 'Device'
-                'command': 'titanium-atom-menu:run-android-devices'
+                'command': 'titanium-build:run-android-devices'
               }
             ]
           }
           {
             'label': 'Clean'
-            'command': 'titanium-atom-menu:clean'
+            'command': 'titanium-build:clean'
           }
           {
             'label': 'Terminate build.'

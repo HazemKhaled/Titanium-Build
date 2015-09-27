@@ -1,8 +1,8 @@
 {
   "name": "titanium-build",
-  "main": "./lib/titanium-atom-menu",
+  "main": "./lib/titanium-build",
   "version": "0.7.1",
-  "description": "Run, package and create project with Appcelerator Titanium",
+  "description": "Run, package and deploy with Appcelerator Titanium",
   "keywords": [
     "Titanium",
     "Alloy",
@@ -21,7 +21,7 @@
       }
     }
   },
-  "repository": "https://github.com/hazemkhaled/titanium-atom-menu",
+  "repository": "https://github.com/hazemkhaled/titanium-build",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
