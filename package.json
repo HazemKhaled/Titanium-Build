@@ -31,6 +31,6 @@
     "underscore": "latest"
   },
   "package-dependencies": {
-    "build": "latest"
+    "build": "0.48.0"
   }
 }
