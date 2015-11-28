@@ -1,7 +1,7 @@
 {
   "name": "titanium-build",
   "main": "./lib/titanium-build",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Run, package and deploy with Appcelerator Titanium",
   "keywords": [
     "Titanium",
