@@ -1,3 +1,9 @@
+<p align="center">
+  <h3>
+      This project is no longer under active development. Since @Appcelerator released awesome <a href="https://github.com/appcelerator/atom-appcelerator-titanium">official package for Atom</a> including debugging, build and more.
+  <h3>
+</p>
+
 # Titanium Build for Atom text editor
 Run on iPhone simulator, Android emulator and Android device from atom, more coming soon.
 
